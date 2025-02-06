@@ -1,6 +1,6 @@
 # <h1 align="center"> El mejor Challenge </h1>
   <p align="left">
-   <img src="![Imagen del proyecto ](https://github.com/user-attachments/assets/3c2148af-ba31-4bd7-97b4-73d51cf0922e)">
+   <img src="(https://github.com/user-attachments/assets/3c2148af-ba31-4bd7-97b4-73d51cf0922e)">
    </p>
 
 Título e imagen de portada;
