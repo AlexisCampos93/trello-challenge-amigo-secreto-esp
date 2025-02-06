@@ -29,8 +29,6 @@
     <li>Crea un Pull Request para que revisemos tus cambios.</li>
 </ol>
 
-<h2>Licencia</h2>
-<p>Este proyecto está bajo la licencia <strong>[Nombre de la Licencia]</strong>, lo que significa que puedes usarlo y modificarlo libremente bajo los términos especificados.</p>
 
 <h2>Contacto</h2>
 <p>Si tienes alguna sugerencia o duda, no dudes en ponerte en contacto a través del repositorio de GitHub.</p>
