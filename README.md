@@ -33,5 +33,9 @@
 <h2>Contacto</h2>
 <p>Si tienes alguna sugerencia o duda, no dudes en ponerte en contacto a través del repositorio de GitHub.</p>
 
+ <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+
 <hr>
 <p>¡Disfruta usando <strong>"El Amigo Más Secreto"</strong> y haz tus sorteos más emocionantes y justos!</p>
